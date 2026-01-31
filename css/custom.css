@@ -1,0 +1,6 @@
+/* 簡化版測試 */
+.f1, .f2, .f-headline {
+    font-family: 'Trajan', serif !important;
+    font-weight: 900 !important;
+    text-transform: uppercase !important;
+}
